@@ -1,0 +1,27 @@
+Name: Arman Kapbasov
+SID: 998123507
+Project 5
+Sources: Some code adopted from textBook "Computer Graphics with OpenGL" 
+and code given on SmartSite by Ming-Hung Lu, for handling 3D animation.
+
+
+#============SOURCES============
+Some code adapted from following:
+Library: https://github.com/syoyo/tinyobjloader
+Used to import Objs
+wikipedia.com
+http://ubuntuforums.org/showthread.php?t=1805122
+https://www.opengl.org/discussion_boards/showthread.php/171931-Loading-OBJ-and-MTL-files
+textbook
+
+CAR MODEL = https://3dwarehouse.sketchup.com/model.html?id=3024cfd6259c06b828f9ea1bfc7c741f
+mountains MODEL = https://3dwarehouse.sketchup.com/model.html?id=be6d35f1440de086f35554ebed2bf2
+SUN model = https://3dwarehouse.sketchup.com/model.html?id=398b91afa754528bbe43d356df0e955
+
+SKETCHUP used to create OBJ files and MTL files
+
+#==========================Quick start=========================================================
+
+	1) compile and run ./test
+
+#==============================================================================================
